@@ -1,0 +1,21 @@
+Di era digital saat ini, jaringan telah menjadi pondasi bagi hampir semua aspek kehidupan kita. Kita mengandalkan jaringan untuk berkomunikasi, bertransaksi, mendapatkan informasi, dan banyak lagi. Namun, dengan manfaat besar yang ditawarkan oleh jaringan, datanglah potensi risiko dan ancaman keamanan yang lebih tinggi. Seiring dengan perkembangan teknologi, serangan siber juga semakin kompleks dan berbahaya.
+
+Keamanan jaringan menjadi sangat penting untuk melindungi data dan informasi sensitif, mencegah kebocoran data, gangguan layanan, pencurian identitas, dan serangan-serangan lainnya. Saat ini, tidak hanya organisasi besar yang menjadi sasaran, tetapi juga individu dan perusahaan kecil karena serangan siber dapat menyasar siapa saja.
+
+Perkenalan tentang Konsep Firewall:
+
+Firewall adalah salah satu elemen penting dalam menjaga keamanan jaringan. Ini adalah teknologi yang berfungsi untuk mengontrol dan memantau lalu lintas yang masuk dan keluar dari jaringan. Firewall bertindak sebagai penghalang antara jaringan internal (misalnya, jaringan perusahaan) dengan jaringan eksternal (misalnya, internet). Tujuan utamanya adalah untuk mengidentifikasi, mengizinkan, atau memblokir lalu lintas berdasarkan aturan dan kebijakan keamanan yang ditentukan sebelumnya.
+
+Konsep dasar dari firewall adalah memeriksa paket data yang melewati jaringan berdasarkan kriteria tertentu. Firewall akan memutuskan apakah paket tersebut aman atau berbahaya berdasarkan aturan keamanan yang telah ditentukan sebelumnya. Jika paket data sesuai dengan aturan yang diatur, firewall akan mengizinkannya untuk melintas. Jika paket data tidak sesuai atau mencurigakan, firewall akan memblokirnya untuk mencegah potensi ancaman.
+
+Firewall dapat beroperasi di berbagai tingkatan dalam jaringan, mulai dari perangkat keras yang terintegrasi di antara jaringan hingga perangkat lunak yang diinstal di komputer atau server. Ada beberapa jenis firewall, termasuk:
+
+Firewall Jaringan: Biasanya berbentuk perangkat keras yang ditempatkan di antara jaringan lokal dan internet, bertugas untuk mengawasi lalu lintas data.
+
+Firewall Host: Merupakan perangkat lunak yang diinstal pada komputer atau server individual untuk melindungi perangkat itu sendiri.
+
+Firewall Pelabuhan (Port Firewall): Fokus pada mengontrol koneksi berdasarkan nomor port yang digunakan dalam protokol jaringan.
+
+Firewall Berbasis Aplikasi: Memantau dan mengontrol lalu lintas berdasarkan jenis aplikasi yang digunakan.
+
+Melalui penerapan firewall, organisasi dan individu dapat meningkatkan keamanan jaringan mereka dengan mengurangi risiko dari serangan siber dan mengatur lalu lintas data secara lebih efektif. Ini membantu menjaga kerahasiaan, integritas, dan ketersediaan data, serta melindungi sistem dan infrastruktur dari ancaman yang berpotensi merugikan

@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Fira";
+  src: url("../public/fonts/FiraCode.otf");
+}
+@font-face {
+  font-family: "Salt";
+  src: url("../public/fonts/Salt.otf");
+}
+@font-face {
+  font-family: "Quote";
+  src: url("../public/fonts/Quote.otf");
+}
+
+body {
+  height: 100vh;
+  font-family: "Fira";
+  color: #dfe7ea;
+}
+
+#BG {
+  background: linear-gradient(132deg, #11779c, #121b22);
+  background-size: 600% 600%;
+
+  -webkit-animation: AnimationName 11s ease infinite;
+  -moz-animation: AnimationName 11s ease infinite;
+  animation: AnimationName 11s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 5% 0%;
+  }
+  50% {
+    background-position: 96% 100%;
+  }
+  100% {
+    background-position: 5% 0%;
+  }
+}
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 5% 0%;
+  }
+  50% {
+    background-position: 96% 100%;
+  }
+  100% {
+    background-position: 5% 0%;
+  }
+}
+@keyframes AnimationName {
+  0% {
+    background-position: 5% 0%;
+  }
+  50% {
+    background-position: 96% 100%;
+  }
+  100% {
+    background-position: 5% 0%;
+  }
+}
