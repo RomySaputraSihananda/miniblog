@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/miniblog/static/css/main.e4c33370.css",
-    "main.js": "/miniblog/static/js/main.74c89915.js",
+    "main.js": "/miniblog/static/js/main.c96c5852.js",
     "static/js/787.95489147.chunk.js": "/miniblog/static/js/787.95489147.chunk.js",
     "static/media/FiraCode.otf": "/miniblog/static/media/FiraCode.38dc85a7511e37dc7e49.otf",
     "static/media/jenis.gif": "/miniblog/static/media/jenis.f723ff46897136342eaa.gif",
@@ -32,11 +32,11 @@
     "static/media/application.webp": "/miniblog/static/media/application.f20a1c2a01e369979484.webp",
     "index.html": "/miniblog/index.html",
     "main.e4c33370.css.map": "/miniblog/static/css/main.e4c33370.css.map",
-    "main.74c89915.js.map": "/miniblog/static/js/main.74c89915.js.map",
+    "main.c96c5852.js.map": "/miniblog/static/js/main.c96c5852.js.map",
     "787.95489147.chunk.js.map": "/miniblog/static/js/787.95489147.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4c33370.css",
-    "static/js/main.74c89915.js"
+    "static/js/main.c96c5852.js"
   ]
 }
