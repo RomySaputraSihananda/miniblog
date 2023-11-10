@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/miniblog/static/css/main.e4c33370.css",
+    "main.js": "/miniblog/static/js/main.74c89915.js",
+    "static/js/787.95489147.chunk.js": "/miniblog/static/js/787.95489147.chunk.js",
+    "static/media/FiraCode.otf": "/miniblog/static/media/FiraCode.38dc85a7511e37dc7e49.otf",
+    "static/media/jenis.gif": "/miniblog/static/media/jenis.f723ff46897136342eaa.gif",
+    "static/media/billgates.png": "/miniblog/static/media/billgates.27647ff722bf455be5cf.png",
+    "static/media/mandela.png": "/miniblog/static/media/mandela.2cd7b214003fcf780f02.png",
+    "static/media/einstein.png": "/miniblog/static/media/einstein.43736f22270509723565.png",
+    "static/media/me.jpg": "/miniblog/static/media/me.afd253d51daaf715e1d0.jpg",
+    "static/media/mahatma.png": "/miniblog/static/media/mahatma.daa2dcb597da26937fa5.png",
+    "static/media/Quote.otf": "/miniblog/static/media/Quote.6972c092e39982dbf9c4.otf",
+    "static/media/firewall.jpeg": "/miniblog/static/media/firewall.aa898a0a45b0291fcbb5.jpeg",
+    "static/media/filter.jpg": "/miniblog/static/media/filter.b5fe35f44c4b95650df3.jpg",
+    "static/media/rei.jpg": "/miniblog/static/media/rei.dfe5f1de0be29eb0d453.jpg",
+    "static/media/kesimpulan.png": "/miniblog/static/media/kesimpulan.84bece6afbed88e82ad3.png",
+    "static/media/malware.jpg": "/miniblog/static/media/malware.bcbcde52c306719424d3.jpg",
+    "static/media/windowsfire.jpg": "/miniblog/static/media/windowsfire.9f0c7205962384232d6e.jpg",
+    "static/media/2.PNG": "/miniblog/static/media/2.58855cd4ae7ce7f2847d.PNG",
+    "static/media/konfigurasi.png": "/miniblog/static/media/konfigurasi.933d7dd17777d0a6ecd7.png",
+    "static/media/1.PNG": "/miniblog/static/media/1.f80e1433e4c17943e901.PNG",
+    "static/media/3.PNG": "/miniblog/static/media/3.a71edb822fd8b04b8148.PNG",
+    "static/media/kerja.png": "/miniblog/static/media/kerja.3141be8e88bd06b3e40a.png",
+    "static/media/Fungsi.jpg": "/miniblog/static/media/Fungsi.c477fd03f7b5ad92a635.jpg",
+    "static/media/brute-force.jpg": "/miniblog/static/media/brute-force.79f4b59c5ee2a5a2237e.jpg",
+    "static/media/4.PNG": "/miniblog/static/media/4.2243712913cfa633b5cd.PNG",
+    "static/media/Salt.otf": "/miniblog/static/media/Salt.fa0e3d9eb7032a74b9f0.otf",
+    "static/media/konsep.png": "/miniblog/static/media/konsep.c4798379a6f2db38e7a2.png",
+    "static/media/stateful.png": "/miniblog/static/media/stateful.445392b99db34f23537f.png",
+    "static/media/pengertian.png": "/miniblog/static/media/pengertian.9aa7232b5ff2e1f9667d.png",
+    "static/media/application.webp": "/miniblog/static/media/application.f20a1c2a01e369979484.webp",
+    "index.html": "/miniblog/index.html",
+    "main.e4c33370.css.map": "/miniblog/static/css/main.e4c33370.css.map",
+    "main.74c89915.js.map": "/miniblog/static/js/main.74c89915.js.map",
+    "787.95489147.chunk.js.map": "/miniblog/static/js/787.95489147.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c33370.css",
+    "static/js/main.74c89915.js"
+  ]
+}
