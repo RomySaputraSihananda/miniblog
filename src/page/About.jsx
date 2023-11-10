@@ -10,7 +10,7 @@ const style = {
 
 const About = () => {
   useEffect(() => {
-    document.title = "About Page";
+    document.title = "about page | romys";
   }, []);
 
   return (

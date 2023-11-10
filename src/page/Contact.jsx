@@ -4,7 +4,7 @@ import ProfileCard from "../components/ProfileCard";
 
 const Contact = () => {
   useEffect(() => {
-    document.title = "Contact";
+    document.title = "contact | romys";
   }, []);
   return (
     <Layout>

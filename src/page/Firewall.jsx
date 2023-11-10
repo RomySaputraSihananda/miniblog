@@ -14,7 +14,8 @@ import NavMateri from "../components/layout/NavMateri";
 const Firewall = () => {
   const [height, setHeight] = useState(0);
   useEffect(() => {
-    document.title = "Memahami Firewall dan Pentingnya Keamanan Jaringan";
+    document.title =
+      "Memahami Firewall dan Pentingnya Keamanan Jaringan | romys";
     const handleScroll = () => {
       setHeight(window.scrollY);
     };

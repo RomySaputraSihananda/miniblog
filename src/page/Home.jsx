@@ -8,7 +8,7 @@ const Home = () => {
   const [pople, setPople] = useState("");
 
   useEffect(() => {
-    document.title = "Home";
+    document.title = "miniblog | romys";
     setPople(randomQuotes());
   }, []);
 

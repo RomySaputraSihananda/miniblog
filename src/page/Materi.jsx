@@ -4,7 +4,7 @@ import Card from "../components/Card";
 import firewall from "./../assets/img/firewall.jpeg";
 const Home = () => {
   useEffect(() => {
-    document.title = "Materi";
+    document.title = "materi | romys";
   }, []);
   return (
     <Layout>
